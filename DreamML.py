@@ -1,8 +1,6 @@
 # DreamML Project
-# dream-ml.is-great.org
-# By TO_ (Téo)
-
-# MIT OpenSource Licence
+# wiiteo.github.io
+# By WiiTeo
 
 import os
 import sys
