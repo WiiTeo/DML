@@ -14,7 +14,7 @@ Modify this on a text editor
 and add this for example :
 
 ```
-<Dream version=0.1>
+<Dream version="0.1">
   <Print>Hello World</Print>
   <Exit />
 </Dream>
