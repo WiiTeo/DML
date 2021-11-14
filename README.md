@@ -12,11 +12,13 @@ and create an DML File (example : example.dml)
 
 Modify this on a text editor
 and add this for example :
+
 ```
 <Dream version=0.1>
   <Print>Hello World</Print>
   <Exit />
-</Dream>```
+</Dream>
+```
 
 And open a cmd or shell and type :
 
