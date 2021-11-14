@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<!-- Example -->
-<Dream>
-    <Init>
-        <CMsD>echo j > k.txt</CMsD>
-    </Init>
-</Dream>
