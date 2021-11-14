@@ -1,7 +1,7 @@
+<!-- DML Example by WiiTeo -->
 <Dream version="0.1">
-    <CMD>echo j</CMD>
-    <Print> CMD has call </Print>
-    <Print> on the data base </Print>
-    <Print>8</Print>
-    <s>oooo</s>
+    <Print>Welcome to DML !</Print>
+    <Print>Current version : 0.1</Print>
+    <CMD>echo CMD Tag !</CMD>
+    <Exit />
 </Dream>
