@@ -13,7 +13,7 @@ and create an DML File (example : example.dml)
 Modify this on a text editor
 and add this for example :
 
-```
+```xml
 <Dream version="0.1">
   <Print>Hello World</Print>
   <Exit />
